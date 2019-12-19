@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/Logger.svg?style=flat)](https://cocoapods.org/pods/Logger)
 [![Platform](https://img.shields.io/cocoapods/p/Logger.svg?style=flat)](https://cocoapods.org/pods/Logger)
 
+## Details
+
+Logger is a simple logging library I threw together to handle logging at different levels for iOS applications.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -23,6 +27,10 @@ pod 'Logger'
 ## Author
 
 Brian Heller, bheller2010@live.com
+
+## Contributing
+
+Feel free to do whatever you want with this. All I ask is that if you submit pull requests keep the changes and commits succinct for ease of reviewing.
 
 ## License
 

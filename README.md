@@ -1,6 +1,6 @@
 # Logger
 
-[![CI Status](https://img.shields.io/travis/Brian Heller/Logger.svg?style=flat)](https://travis-ci.org/Brian Heller/Logger)
+[![CI Status](https://img.shields.io/travis/vilyan01/Logger.svg?style=flat)](https://travis-ci.org/vilyan01/Logger)
 [![Version](https://img.shields.io/cocoapods/v/Logger.svg?style=flat)](https://cocoapods.org/pods/Logger)
 [![License](https://img.shields.io/cocoapods/l/Logger.svg?style=flat)](https://cocoapods.org/pods/Logger)
 [![Platform](https://img.shields.io/cocoapods/p/Logger.svg?style=flat)](https://cocoapods.org/pods/Logger)

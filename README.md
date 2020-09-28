@@ -1,3 +1,3 @@
 # Logger
 
-A description of this package.
+Simple logging utiltiy for different things!

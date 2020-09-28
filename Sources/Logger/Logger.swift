@@ -5,8 +5,8 @@ final public class Logger {
     private static let LOGGER_PLIST_KEY = "Logger.LogLevel"
     
     // Configuration
-    private static var currentLogLevel: LogLevel? // TODO: This should probably be set based on a setting somehow rather than just configured here.
-    private static var isInitialized: Bool {
+    static var currentLogLevel: LogLevel? // TODO: This should probably be set based on a setting somehow rather than just configured here.
+    static var isInitialized: Bool {
         get {
             return currentLogLevel != nil
         }
